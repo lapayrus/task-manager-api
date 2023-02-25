@@ -13,6 +13,8 @@ class AppServiceProvider extends ServiceProvider
     {
         $this->loadMigrationsFrom([
             database_path() . '/migrations/users',
+            database_path() . '/migrations/organizations',
+            database_path() . '/migrations/files',
         ]);
     }
 
