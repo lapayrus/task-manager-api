@@ -1,11 +1,11 @@
 ## Todo
 
 1. *Authentication APIs*
-    a. *Login* -  **Done**
-    b. *Registration* - **Done**
-    c. *Forget Password*
-    d. *One-Time Login (Email Only)*
-    e. *Remember option with lock screen*
+    1. *Login* -  **Done**
+    2. *Registration* - **Done**
+    3. *Forget Password*
+    4. *One-Time Login (Email Only)*
+    5. *Remember option with lock screen*
 2. *Task CRUD*
 3. *Integration with third-party*
 4. *Organization CRUD*
